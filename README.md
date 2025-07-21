@@ -1,0 +1,1 @@
+This repository contains the data analysis and predictive model building for a variety of datasets. Each project explores a unique dataset, documents the exploratory data analysis (EDA), and details the process of building and evaluating a machine learning model.
